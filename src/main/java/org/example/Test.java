@@ -8,4 +8,6 @@ public class Test {
     int e;
     int f;
     int z;
+    int x;
+    int t;
 }
