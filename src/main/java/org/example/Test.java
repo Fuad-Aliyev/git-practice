@@ -7,4 +7,5 @@ public class Test {
     int d;
     int e;
     int f;
+    int z;
 }
