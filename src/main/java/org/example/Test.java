@@ -10,4 +10,5 @@ public class Test {
     int z;
     int w;
     int l;
+    int o;
 }
